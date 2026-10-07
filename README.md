@@ -39,4 +39,16 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Raushhhh25/Leet_Code/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Raushhhh25/Leet_Code/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Raushhhh25/Leet_Code/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
