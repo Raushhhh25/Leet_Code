@@ -45,6 +45,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Raushhhh25/Leet_Code/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0344-reverse-string](https://github.com/Raushhhh25/Leet_Code/tree/main/0344-reverse-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Raushhhh25/Leet_Code/tree/main/0075-sort-colors/) | Medium |
+| [0344-reverse-string](https://github.com/Raushhhh25/Leet_Code/tree/main/0344-reverse-string/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
