@@ -6,6 +6,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0507-perfect-number](https://github.com/Raushhhh25/Leet_Code/tree/main/0507-perfect-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -44,6 +46,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Raushhhh25/Leet_Code/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Raushhhh25/Leet_Code/tree/main/0344-reverse-string/) | Easy |
 ## Backtracking
