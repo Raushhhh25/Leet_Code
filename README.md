@@ -23,11 +23,13 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Raushhhh25/Leet_Code/tree/main/0001-two-sum/) | Easy |
 | [0075-sort-colors](https://github.com/Raushhhh25/Leet_Code/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Raushhhh25/Leet_Code/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
 ## Sorting
