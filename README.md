@@ -6,6 +6,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Raushhhh25/Leet_Code/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0507-perfect-number](https://github.com/Raushhhh25/Leet_Code/tree/main/0507-perfect-number/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Raushhhh25/Leet_Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -31,6 +32,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Raushhhh25/Leet_Code/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/Raushhhh25/Leet_Code/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
 ## Sorting
@@ -49,6 +51,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Raushhhh25/Leet_Code/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Raushhhh25/Leet_Code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Raushhhh25/Leet_Code/tree/main/0301-remove-invalid-parentheses/) | Hard |
