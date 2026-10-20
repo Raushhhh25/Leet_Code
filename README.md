@@ -28,6 +28,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | [0001-two-sum](https://github.com/Raushhhh25/Leet_Code/tree/main/0001-two-sum/) | Easy |
 | [0075-sort-colors](https://github.com/Raushhhh25/Leet_Code/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
+| [0870-advantage-shuffle](https://github.com/Raushhhh25/Leet_Code/tree/main/0870-advantage-shuffle/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Raushhhh25/Leet_Code/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
+| [0870-advantage-shuffle](https://github.com/Raushhhh25/Leet_Code/tree/main/0870-advantage-shuffle/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | [0075-sort-colors](https://github.com/Raushhhh25/Leet_Code/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Raushhhh25/Leet_Code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/Raushhhh25/Leet_Code/tree/main/0344-reverse-string/) | Easy |
+| [0870-advantage-shuffle](https://github.com/Raushhhh25/Leet_Code/tree/main/0870-advantage-shuffle/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,5 +84,6 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0870-advantage-shuffle](https://github.com/Raushhhh25/Leet_Code/tree/main/0870-advantage-shuffle/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Raushhhh25/Leet_Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 <!---LeetCode Topics End-->
