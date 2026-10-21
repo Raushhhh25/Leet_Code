@@ -6,6 +6,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/Raushhhh25/Leet_Code/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0507-perfect-number](https://github.com/Raushhhh25/Leet_Code/tree/main/0507-perfect-number/) | Easy |
