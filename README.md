@@ -10,6 +10,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | [0012-integer-to-roman](https://github.com/Raushhhh25/Leet_Code/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0507-perfect-number](https://github.com/Raushhhh25/Leet_Code/tree/main/0507-perfect-number/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Raushhhh25/Leet_Code/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Raushhhh25/Leet_Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | [0151-reverse-words-in-a-string](https://github.com/Raushhhh25/Leet_Code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Raushhhh25/Leet_Code/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Raushhhh25/Leet_Code/tree/main/0344-reverse-string/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Raushhhh25/Leet_Code/tree/main/2409-count-days-spent-together/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
