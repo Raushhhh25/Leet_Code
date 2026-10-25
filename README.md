@@ -30,6 +30,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | [0001-two-sum](https://github.com/Raushhhh25/Leet_Code/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Raushhhh25/Leet_Code/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Raushhhh25/Leet_Code/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Raushhhh25/Leet_Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
 | [0870-advantage-shuffle](https://github.com/Raushhhh25/Leet_Code/tree/main/0870-advantage-shuffle/) | Medium |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Raushhhh25/Leet_Code/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Raushhhh25/Leet_Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
 | [0870-advantage-shuffle](https://github.com/Raushhhh25/Leet_Code/tree/main/0870-advantage-shuffle/) | Medium |
 ## Counting
@@ -75,6 +77,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Raushhhh25/Leet_Code/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Raushhhh25/Leet_Code/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Raushhhh25/Leet_Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Raushhhh25/Leet_Code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/Raushhhh25/Leet_Code/tree/main/0344-reverse-string/) | Easy |
 | [0870-advantage-shuffle](https://github.com/Raushhhh25/Leet_Code/tree/main/0870-advantage-shuffle/) | Medium |
