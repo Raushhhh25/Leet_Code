@@ -33,6 +33,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | [0088-merge-sorted-array](https://github.com/Raushhhh25/Leet_Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
 | [0870-advantage-shuffle](https://github.com/Raushhhh25/Leet_Code/tree/main/0870-advantage-shuffle/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Raushhhh25/Leet_Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Raushhhh25/Leet_Code/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Raushhhh25/Leet_Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +96,16 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | ------- | ------- |
 | [0870-advantage-shuffle](https://github.com/Raushhhh25/Leet_Code/tree/main/0870-advantage-shuffle/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Raushhhh25/Leet_Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Raushhhh25/Leet_Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Raushhhh25/Leet_Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Raushhhh25/Leet_Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
