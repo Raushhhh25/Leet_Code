@@ -9,6 +9,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | [0007-reverse-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/Raushhhh25/Leet_Code/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/Raushhhh25/Leet_Code/tree/main/0050-powx-n/) | Medium |
 | [0507-perfect-number](https://github.com/Raushhhh25/Leet_Code/tree/main/0507-perfect-number/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Raushhhh25/Leet_Code/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Raushhhh25/Leet_Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -108,4 +109,8 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Raushhhh25/Leet_Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Raushhhh25/Leet_Code/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
