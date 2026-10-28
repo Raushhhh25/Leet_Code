@@ -35,6 +35,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
 | [0870-advantage-shuffle](https://github.com/Raushhhh25/Leet_Code/tree/main/0870-advantage-shuffle/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Raushhhh25/Leet_Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Raushhhh25/Leet_Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,8 +110,17 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Raushhhh25/Leet_Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Raushhhh25/Leet_Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Raushhhh25/Leet_Code/tree/main/0050-powx-n/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Raushhhh25/Leet_Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Raushhhh25/Leet_Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
