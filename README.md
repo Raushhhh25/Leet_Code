@@ -13,6 +13,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0507-perfect-number](https://github.com/Raushhhh25/Leet_Code/tree/main/0507-perfect-number/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Raushhhh25/Leet_Code/tree/main/2409-count-days-spent-together/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raushhhh25/Leet_Code/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Raushhhh25/Leet_Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0870-advantage-shuffle](https://github.com/Raushhhh25/Leet_Code/tree/main/0870-advantage-shuffle/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raushhhh25/Leet_Code/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Raushhhh25/Leet_Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Raushhhh25/Leet_Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
@@ -45,6 +47,7 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 | [0012-integer-to-roman](https://github.com/Raushhhh25/Leet_Code/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Raushhhh25/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0229-majority-element-ii](https://github.com/Raushhhh25/Leet_Code/tree/main/0229-majority-element-ii/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raushhhh25/Leet_Code/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,9 +124,18 @@ A collection of my LeetCode solutions, categorised by topic and difficulty (Easy
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raushhhh25/Leet_Code/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Raushhhh25/Leet_Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Raushhhh25/Leet_Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raushhhh25/Leet_Code/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raushhhh25/Leet_Code/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 <!---LeetCode Topics End-->
